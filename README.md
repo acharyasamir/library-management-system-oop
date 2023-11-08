@@ -1,7 +1,9 @@
 Library Management System
+
 This project is a Library Management System implemented in Python, showcasing the use of Object-Oriented Programming (OOP) principles.
 
 Features
+
 Manage books and member information.
 Check out and return books.
 Upcoming
